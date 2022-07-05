@@ -9,6 +9,7 @@
 body {
     background: var(--clr-white);
     font-family: 'IBM Plex Sans', sans-serif;
+    overflow-x: hidden;
 }
 
 * {
